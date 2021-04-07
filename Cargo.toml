@@ -1,0 +1,9 @@
+[package]
+name = "vouch-rs"
+version = "0.1.0"
+authors = ["rndhouse <rndhouse@protonmail.com>"]
+edition = "2018"
+repository = "https://github.com/vouch-dev/vouch-rs"
+license = "MIT"
+description = "Rust ecosystem extension for the Vouch package review system."
+[dependencies]
